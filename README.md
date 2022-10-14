@@ -1,5 +1,9 @@
 ### Hi there 👋
-안녕하세요\
+
+Hello, my name is Kyungmook Kim.
+Coding and cloud-related git.
+
+📰 [Blog](https://blog.naver.com/kong759)
 
 <!--
 **kong759/kong759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
